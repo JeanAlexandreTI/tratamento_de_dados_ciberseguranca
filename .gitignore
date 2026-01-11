@@ -1,0 +1,14 @@
+# Virtualenv (em qualquer lugar do projeto)
+**/bot_venv/
+**/venv/
+
+# Python lixo
+__pycache__/
+*.pyc
+.env
+*.env
+bot_venv/
+.env
+**/.env
+venv/
+*venv/
