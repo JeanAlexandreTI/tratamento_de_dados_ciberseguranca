@@ -35,8 +35,11 @@ Variáveis de ambiente necessárias
 Para o script funcionar, é obrigatório criar um arquivo .env na raiz do projeto contendo as seguintes variáveis:
 
 HOST=seu_host_mysql
+
 DATABASE=nome_do_banco
+
 USER=usuario_mysql
+
 PASSWORD_SQL=sua_senha
 
 
